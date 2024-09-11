@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPnsRwwi9E5pbnK/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/26FPnsRwwi9E5pbnK/giphy.gif](https://giphy.com/gifs/kawaii-anime-girl-7ihhFw8q0LzBS)" width="100"/>
 </p>
