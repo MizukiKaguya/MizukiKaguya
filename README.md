@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Olá, eu sou MizukiKaguya!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/ErZ8hv5eO92JW/giphy.gif" width="480" height="269" alt="Gif animado kawaii" />
 </p>
 
 <p align="center">
