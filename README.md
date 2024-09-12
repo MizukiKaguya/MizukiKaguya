@@ -17,7 +17,7 @@
 ### 🧠 Sobre Mim
 - 🎨 Interesses: Desenvolvimento web, design de jogos, IA, automação de processos, e o mundo dos animes e games.
 - 📘 Atualmente aprendendo: JavaScript, desenvolvimento web, e explorando o vasto mundo da programação.
-- 🎮 Perfil na Steam: [Steam - MizukiKaguya](https://steamcommunity.com/id/mizukikaguya/)
+- 🎮 Perfil de alguma coisa futuramente: 
 - 💬 Contato: Discord: mizukikaguya
 
 ---
