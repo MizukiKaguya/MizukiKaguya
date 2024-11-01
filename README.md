@@ -29,7 +29,7 @@ Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por **games**, **ani
 
 ---
 
-## 🛠️ Habilidades e Ferramentas
+## 🛠️ Habilidades e Aprimoração
 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5" alt="HTML5"/>
